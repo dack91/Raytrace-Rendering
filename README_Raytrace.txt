@@ -1,5 +1,4 @@
 README
-Clemson DPA Application
 Computer Graphics Raytrace Renderer
 
 The main program is located in /assignment04/src/apps/04_pathtrace.cpp
